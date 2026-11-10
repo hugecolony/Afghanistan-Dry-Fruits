@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+build/
+.vercel/
+.env
+.env*.local
+npm-debug.log*
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+
+# Raw WordPress media export (102MB, 292 files); the site now uses public/products
+2024/
